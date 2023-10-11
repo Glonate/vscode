@@ -1,0 +1,18 @@
+.Box1{
+    background-color:red ;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 500px;
+    top: 350px;
+    border-radius: 100px;
+}
+.Box3{
+    background-color: blue;
+    height: 200px;
+    width: 350px;
+    position: absolute;
+    left: 300px;
+    top: 230px;
+    z-index: -1;
+}

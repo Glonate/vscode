@@ -1,0 +1,22 @@
+.Red{
+    background-color:red ;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    
+
+}
+.Green{
+    background-color: green;
+    height: 120px;
+    width: 120px; ;
+    position: absolute;
+    left: 120px;
+}
+.Blue{
+    background-color: blue;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    left: 240px;;
+}
